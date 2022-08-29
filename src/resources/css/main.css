@@ -1,0 +1,28 @@
+#code_snippet {
+    border-color: rgba(25,34,22,0.34);
+    border-style: groove;
+    margin: 15px;
+    padding: 20px;
+    background: darkgray;
+    width: auto;
+}
+
+#load_date {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 15px;
+    color: black;
+}
+
+#send_snippet {
+    margin: 15px;
+}
+
+#new_code_snippet {
+    height: auto;
+    width: 800px;
+    margin: 15px;
+    background: white;
+    border-color: rgba(25,34,22,0.34);
+    border-style: groove;
+}
